@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="592.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.demo.controller.dashboard.DashBoard1Controller">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#82ccdd" height="47.0" stroke="BLACK" strokeType="INSIDE" width="596.0" />
+      <Label layoutX="47.0" layoutY="8.0" text="Dashboard">
+         <font>
+            <Font name="System Bold Italic" size="22.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutY="47.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
+         <children>
+            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#placeOrderOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Place Orders" textFill="WHITE">
+               <font>
+                  <Font size="22.0" />
+               </font>
+               <graphic>
+                  <ImageView fx:id="img1" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
+               </graphic>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="155.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
+         <children>
+            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#addItemOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Add Items" textFill="#fffbfb">
+               <font>
+                  <Font size="22.0" />
+               </font>
+               <graphic>
+                  <ImageView fx:id="img2" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
+               </graphic>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="298.0" layoutY="263.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
+         <children>
+            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#settingsOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Settings" textFill="WHITE">
+               <font>
+                  <Font size="22.0" />
+               </font>
+               <graphic>
+                  <ImageView fx:id="img6" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
+               </graphic>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="298.0" layoutY="47.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
+         <children>
+            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#viewOrderOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="View Orders" textFill="WHITE">
+               <font>
+                  <Font size="22.0" />
+               </font>
+               <graphic>
+                  <ImageView fx:id="img4" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
+               </graphic>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="298.0" layoutY="155.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
+         <children>
+            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#addSupplierOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Add Sippliers" textFill="WHITE">
+               <font>
+                  <Font size="22.0" />
+               </font>
+               <graphic>
+                  <ImageView fx:id="img5" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
+               </graphic>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="263.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
+         <children>
+            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#reportsOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Reports" textFill="#fffafa">
+               <font>
+                  <Font size="22.0" />
+               </font>
+               <graphic>
+                  <ImageView fx:id="img3" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
+               </graphic>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <JFXButton layoutX="493.0" layoutY="373.0" onAction="#backOnAction" prefHeight="25.0" prefWidth="80.0" style="-fx-background-color: #a4b0be;" text="Back" />
+      <ImageView fx:id="imgDash" fitHeight="32.0" fitWidth="31.0" layoutX="8.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true" />
+   </children>
+</AnchorPane>
