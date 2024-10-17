@@ -1,0 +1,64 @@
+
+˜
+java:S1104)"UMake txtItemID a static final constant or non-public and provide accessors if needed.(ïá¶¼8ò«¡Ú©2J$f3c2f41c-47c7-4162-94f8-79b5f98eaf9c
+š
+java:S1104*"WMake txtItemName a static final constant or non-public and provide accessors if needed.(¬Åá…8ò«¡Ú©2J$14851a65-d8e4-4cf3-ba81-764300168e09
+œ
+java:S1104+"TMake txtPrice a static final constant or non-public and provide accessors if needed.(˜¹•ıÿÿÿÿ8ò«¡Ú©2J$9da1494c-9888-46c0-a92e-6212022eac80
+˜
+java:S1104,"UMake colItemID a static final constant or non-public and provide accessors if needed.(òÔÅ¡8ò«¡Ú©2J$3a7fd1a2-65ec-47bd-a462-e718c659e779
+Ÿ
+java:S1104-"WMake colItemName a static final constant or non-public and provide accessors if needed.(£ºÏòûÿÿÿÿ8ò«¡Ú©2J$7cd23166-6800-42ef-9f96-5b694206f53a
+–
+java:S1104."SMake colSize a static final constant or non-public and provide accessors if needed.(«–Ê8ò«¡Ú©2J$5e1e8044-c458-4d29-9e54-bb411155ef01
+—
+java:S1104/"TMake colPrice a static final constant or non-public and provide accessors if needed.(Æ¦Œê8ò«¡Ú©2J$025bf62d-bd23-4f1e-a791-6a84d9d82831
+›
+java:S11040"XMake colQtyOnHand a static final constant or non-public and provide accessors if needed.(É’‰È8ò«¡Ú©2J$77f680e4-5e90-4f1d-9ee4-9fa45a4a11f5
+›
+java:S11041"SMake txtSize a static final constant or non-public and provide accessors if needed.(¹«¦ÿùÿÿÿÿ8ò«¡Ú©2J$984a2632-752c-4c7b-a29a-5779d26b80c5
+•
+java:S11042"SMake imgItem a static final constant or non-public and provide accessors if needed.(áÎ-8ò«¡Ú©2J$1f7a50fb-60f3-45b7-a96d-57da3e997eae
+š
+java:S11043"XMake txtQtyOnHand a static final constant or non-public and provide accessors if needed.(è¡”X8ò«¡Ú©2J$e18280ed-25b2-448f-8b43-f372ee69e820
+–
+java:S11044"SMake tblItem a static final constant or non-public and provide accessors if needed.(‡¾8ò«¡Ú©2J$8ee6ac5b-7a1e-4ba9-b879-6579e44d2fa3
+—
+java:S11045"TMake btnClear a static final constant or non-public and provide accessors if needed.(¾ãÔÏ8ò«¡Ú©2J$f1935296-6b47-4fcf-aec7-e65f15d6441c
+—
+java:S11046"TMake imgItem1 a static final constant or non-public and provide accessors if needed.(¼“×—8ò«¡Ú©2J$09832e1d-12e5-48c8-abb1-9cc91c4cefeb
+	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ò«¡Ú©2J$7ad5da6e-600e-4e4c-aae5-159ed0bc71df
+r
+java:S3740,"/Provide the parametrized type for this generic.(òÔÅ¡8ò«¡Ú©2J$532f478a-2e3f-495e-ad39-287fc8fedbdf
+w
+java:S3740-"/Provide the parametrized type for this generic.(£ºÏòûÿÿÿÿ8ò«¡Ú©2J$3ac8a1ae-8a7d-48db-8807-cb7721ca84a5
+r
+java:S3740."/Provide the parametrized type for this generic.(«–Ê8ò«¡Ú©2J$524e56c1-cd14-4dd2-8e50-5a31a891b243
+r
+java:S3740/"/Provide the parametrized type for this generic.(Æ¦Œê8ö«¡Ú©2J$6bf1b6a7-9510-4b3e-9661-eb8af6033677
+r
+java:S37400"/Provide the parametrized type for this generic.(É’‰È8ö«¡Ú©2J$32d49e72-4fbc-4a4b-8b42-2dde2b8f99f9
+r
+java:S37404"/Provide the parametrized type for this generic.(‡¾8ö«¡Ú©2J$14316330-ade7-4c6a-856d-4b1ea547da30
+
+java:S2095¦"GUse try-with-resources or close this "Statement" in a "finally" clause.(ûı÷ùÿÿÿÿÿ8ö«¡Ú©2J$1726d7f6-dca5-48fe-9fe4-80e6edf318bd
+
+java:S2095›"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ö«¡Ú©2J$662a2e7f-ad09-4a96-84b5-e146792694de
+z
+java:S1172L"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8ü«¡Ú©2J$fef63c92-14c6-4f9a-aa5c-af96709dfad4
+r	java:S106V"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8ı«¡Ú©2J$18ad0bad-9565-4228-a7af-8ffda5700b44
+z
+java:S1172a"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8ı«¡Ú©2J$b4cc3877-5f09-4114-8411-814577c01491
+r	java:S106k"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8€¬¡Ú©2J$47d0d929-0270-4c75-9385-a463fc011bc1
+u
+java:S1172v"2Remove this unused method parameter "actionEvent".(Œ“‘8€¬¡Ú©2J$fe7d948f-5956-4c25-bd9c-4d4186bdfa90
+s	java:S106€"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8€¬¡Ú©2J$3f30f59b-b32e-4b17-8254-e8aaf6b048b3
+v
+java:S1172‹"2Remove this unused method parameter "actionEvent".(áÄ´ü8‚¬¡Ú©2J$446f91c3-0d91-42ef-9f13-95961b1ee7ca
+s	java:S106"+Replace this use of System.out by a logger.(ÔÈğÿÿÿÿÿ8‚¬¡Ú©2J$eb6b4aba-9039-4b77-8f70-80cb71122534
+v
+java:S1172Ï"2Remove this unused method parameter "actionEvent".(ŠÜÎ£8Œ¬¡Ú©2J$481dc7b5-fa50-462f-b918-27daccc9e1a9
+’
+java:S1128"ORemove this unused import 'edu.icet.demo.controller.login.LoginFormController'.(é¶ÛÍ8¬¡Ú©2J$4330e53c-931a-4f0e-8fbe-2695169b698c
+{
+java:S1128"3Remove this unused import 'edu.icet.demo.dto.User'.(¤æû¬üÿÿÿÿ8¬¡Ú©2J$624116af-8375-4516-9cdf-c2944040a9aa

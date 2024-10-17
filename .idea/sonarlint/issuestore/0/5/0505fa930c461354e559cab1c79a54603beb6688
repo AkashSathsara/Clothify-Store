@@ -1,0 +1,58 @@
+
+—
+java:S1104)"UMake txtUserId a static final constant or non-public and provide accessors if needed.(ËŠår8Üá–Ú©2J$ac0ebea5-b258-46cb-a982-a037bcf0f1e8
+œ
+java:S1104*"TMake cmdTitle a static final constant or non-public and provide accessors if needed.(ËéõÃÿÿÿÿÿ8Üá–Ú©2J$63109df4-57e9-4f65-a18c-7a0007920f8c
+Ÿ
+java:S1104+"WMake txtUserName a static final constant or non-public and provide accessors if needed.(÷‹Ú’üÿÿÿÿ8Üá–Ú©2J$0b2c4ee3-933b-4103-900a-52dc37173036
+œ
+java:S1104,"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8Üá–Ú©2J$9d79de85-1b2d-44af-b336-1f87265093bb
+›
+java:S1104-"SMake tblUser a static final constant or non-public and provide accessors if needed.(¢Ç„øÿÿÿÿ8Üá–Ú©2J$c6a7658d-061f-47f0-bb7b-e1f2e82e486f
+œ
+java:S1104."YMake colCustomerId a static final constant or non-public and provide accessors if needed.(ì¬ƒ8Üá–Ú©2J$119003a5-79c5-4076-9420-490578e32f4f
+›
+java:S1104/"SMake colName a static final constant or non-public and provide accessors if needed.(ÊÚÎ¨ùÿÿÿÿ8Üá–Ú©2J$7de529b5-b9fe-422b-a516-de57257273b2
+
+java:S11040"VMake colCompany a static final constant or non-public and provide accessors if needed.(°Äˆ´ÿÿÿÿÿ8Üá–Ú©2J$95e53562-98dc-4e21-9cd4-e28d77ce797c
+—
+java:S11041"TMake colEmail a static final constant or non-public and provide accessors if needed.(ƒäÆ8Üá–Ú©2J$572f4c38-6caf-4889-8fe7-bc6d9ec6bedf
+™
+java:S11042"VMake txtCompany a static final constant or non-public and provide accessors if needed.(Úù÷ê8Üá–Ú©2J$20b2a3a5-197a-4f2e-976c-192f570bd6e6
+–
+java:S11043"SMake imgUser a static final constant or non-public and provide accessors if needed.(¨ÚãĞ8Üá–Ú©2J$57d265b4-cdf3-419c-8a48-1eb2c4e2cd93
+	java:S112|"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8äá–Ú©2J$67745373-3a61-4320-979d-7edeba075558
+w
+java:S3740*"/Provide the parametrized type for this generic.(ËéõÃÿÿÿÿÿ8äá–Ú©2J$bd149161-9618-4ece-9d45-e6a785e6ff66
+w
+java:S3740-"/Provide the parametrized type for this generic.(¢Ç„øÿÿÿÿ8äá–Ú©2J$fcbfe499-0fda-4170-8bcb-35ae40e134f1
+r
+java:S3740."/Provide the parametrized type for this generic.(ì¬ƒ8äá–Ú©2J$210de813-bbb9-491b-ac8e-9de71afec64c
+w
+java:S3740/"/Provide the parametrized type for this generic.(ÊÚÎ¨ùÿÿÿÿ8äá–Ú©2J$afec6729-fe9f-4b0c-b2ed-8994ab30a38f
+w
+java:S37400"/Provide the parametrized type for this generic.(°Äˆ´ÿÿÿÿÿ8äá–Ú©2J$476244bb-8b51-4ab3-b157-5699288f9be9
+r
+java:S37401"/Provide the parametrized type for this generic.(ƒäÆ8äá–Ú©2J$fc66a61a-52e1-4f5e-978b-251e17bf0148
+
+java:S2095k"GUse try-with-resources or close this "Statement" in a "finally" clause.(î¢ø±ùÿÿÿÿ8äá–Ú©2J$fffb4c2d-6439-4146-afed-a61b5d58e1ee
+
+java:S2095`"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8äá–Ú©2J$5aa0af50-3b36-4ded-a227-52ee10764e45
+z
+java:S1172I"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8ïá–Ú©2J$6a79e3c3-e61f-4610-b407-7d5f130f8957
+r	java:S106R"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8ïá–Ú©2J$5c904e73-dbf2-4836-a862-91b398c6c298
+{
+java:S1172€"2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8óá–Ú©2J$e28d09b6-7ea4-4ede-ae3e-b8779943aa89
+s	java:S106‰"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8øá–Ú©2J$8218066a-2ebd-4b80-a8c5-b21d2c9720b7
+v
+java:S1172”"2Remove this unused method parameter "actionEvent".(Œ“‘8øá–Ú©2J$358afade-9c58-4e69-b63c-5fc1a1d3a2da
+s	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8øá–Ú©2J$c9e922f5-da3f-4178-baef-feb4a6be5a90
+v
+java:S1172©"2Remove this unused method parameter "actionEvent".(áÄ´ü8øá–Ú©2J$642ae592-be9d-4f12-be82-dbfefab2de3b
+„	java:S125ª"<This block of commented-out lines of code should be removed.(ıÏ­üıÿÿÿÿ8øá–Ú©2J$df13b9e0-1106-4e86-99c1-4012b8e88852
+n	java:S106¬"+Replace this use of System.out by a logger.(–‘8üá–Ú©2J$4564e28a-4fa8-4a04-8e22-735bcaed6bc6
+~	java:S125Ç"<This block of commented-out lines of code should be removed.(ãçâ[8â–Ú©2J$f5b5a717-f447-474e-ba8b-355ce719a211
+’
+java:S1128"ORemove this unused import 'edu.icet.demo.controller.login.LoginFormController'.(é¶ÛÍ8ˆâ–Ú©2J$77f1876d-3fdb-45c5-8563-f791b2aec573
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8ˆâ–Ú©2J$ff3f453a-6869-4d94-993a-852be8869ed1

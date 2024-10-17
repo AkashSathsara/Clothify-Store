@@ -1,0 +1,129 @@
+
+Œ
+java:S1104'"PMake Menu a static final constant or non-public and provide accessors if needed.(ãÕ’J$9256bcd4-f01b-4a79-991a-9a3b08f743ce
+
+java:S1104("TMake MenuBack a static final constant or non-public and provide accessors if needed.(ØÄõªJ$ea89cf3c-c82b-4cce-8a2f-13cd7da10a69
+
+java:S1104)"RMake slider a static final constant or non-public and provide accessors if needed.(ñ‡²µJ$888d897d-0cd3-4074-a8bc-080f2233fe29
+
+java:S1104*"QMake img06 a static final constant or non-public and provide accessors if needed.(·ßˆJ$336361e0-5314-4707-af84-4b4110709ff1
+
+java:S1104+"QMake Img01 a static final constant or non-public and provide accessors if needed.(±÷ÿõJ$22439996-726e-4d2e-83c4-c0021c2b5968
+
+java:S1104,"QMake img02 a static final constant or non-public and provide accessors if needed.(“ìşÏJ$bd6e6420-0237-4f91-90a9-e15b025c790a
+
+java:S1104."QMake img07 a static final constant or non-public and provide accessors if needed.(È’ÑİJ$0529944f-1bb6-4bd8-8772-594082220ceb
+’
+java:S1104/"QMake img08 a static final constant or non-public and provide accessors if needed.(ÿ…¦ûÿÿÿÿJ$c03de642-99ec-410d-beb8-3948a6ea7b85
+’
+java:S11040"QMake img09 a static final constant or non-public and provide accessors if needed.(™á•ÿÿÿÿÿJ$5c869157-cb4d-417d-9838-9d4ed23a87ed
+’
+java:S11041"QMake img12 a static final constant or non-public and provide accessors if needed.(ò–¨åúÿÿÿÿJ$7c157349-a9c3-4d9d-9462-5aeccfcf7bd4
+’
+java:S11042"QMake img10 a static final constant or non-public and provide accessors if needed.(ÊÔ¿«øÿÿÿÿJ$2118e41a-8095-459a-9058-8153c3564c9f
+
+java:S11043"QMake img11 a static final constant or non-public and provide accessors if needed.(©„¢öJ$c713cee6-4717-41fe-a70c-d47bbeaf89af
+’
+java:S11044"QMake img03 a static final constant or non-public and provide accessors if needed.(¶ª‘ÊıÿÿÿÿJ$46de4984-833e-47fe-9e15-10345047f59f
+’
+java:S11045"QMake img04 a static final constant or non-public and provide accessors if needed.(Ç§è²ÿÿÿÿÿJ$a73e6eda-f700-4d87-808d-2849462ee47a
+’
+java:S11046"QMake img05 a static final constant or non-public and provide accessors if needed.(ê˜³¢ıÿÿÿÿJ$6bef0aed-2e46-47f2-b509-c19f4fb0c4fb
+’
+java:S11047"QMake img13 a static final constant or non-public and provide accessors if needed.(Ò„ê¶şÿÿÿÿJ$28e10d5f-9d86-4678-9556-20f52e4a8ff6
+”
+java:S11048"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿJ$64a0ad49-698d-46ab-8d32-3ae99d8250ac
+
+java:S11049"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•J$d8996519-8fe0-4590-9d72-8cd0acd25c66
+
+java:S1104:"OMake img a static final constant or non-public and provide accessors if needed.(çŸ ÷úÿÿÿÿJ$dfffb1eb-bbf7-40db-8e11-34df59e26277
+
+java:S1104;"RMake lblnew a static final constant or non-public and provide accessors if needed.(Şã‹ØJ$814bca03-8fdb-441c-8bb4-28d2bdb76d7c
+–
+java:S1104<"UMake lblOrders a static final constant or non-public and provide accessors if needed.(øĞ½›úÿÿÿÿJ$b3213a1e-585c-49b7-a54a-b91784978f60
+
+java:S1104="TMake lblUsers a static final constant or non-public and provide accessors if needed.(°æ“”J$a2348ad2-c643-49d9-9b5d-b71f5e52bf14
+•
+java:S1104>"TMake lblItems a static final constant or non-public and provide accessors if needed.(ÅÛ†„ûÿÿÿÿJ$67954f67-762e-4cdd-a530-638cab6b638a
+”
+java:S1104?"XMake lblSuppliers a static final constant or non-public and provide accessors if needed.(ıˆ³ÄJ$d2119a63-3839-4dff-b689-400d1c7bb9d2
+
+java:S1104C"MMake x a static final constant or non-public and provide accessors if needed.(ïïÂ…ùÿÿÿÿJ$4c40a73a-764c-44c7-933d-23ef7428e118
+
+java:S1104D"MMake y a static final constant or non-public and provide accessors if needed.(ÿ¿€ÿÿÿÿÿJ$2f9a9199-e11c-4606-b3d7-d86d89a636a7
+
+java:S1104E"MMake z a static final constant or non-public and provide accessors if needed.(÷ò¹›ûÿÿÿÿJ$420f477f-13c8-406d-aac7-83a6c246ecc0
+
+java:S1104F"MMake v a static final constant or non-public and provide accessors if needed.(ÖĞşÔÿÿÿÿÿJ$6d392551-244d-4271-b0b4-38486b731bac
+h
+java:S1444C"'Make this "public static x" field final(ïïÂ…ùÿÿÿÿJ$ad3e3a70-773a-4c4e-abad-056e0e500df6
+h
+java:S1444D"'Make this "public static y" field final(ÿ¿€ÿÿÿÿÿJ$60c84809-e36a-4693-8874-e71ac34bbaa1
+h
+java:S1444E"'Make this "public static z" field final(÷ò¹›ûÿÿÿÿJ$8bbfbefe-286b-4851-997f-41bfc36f8537
+h
+java:S1444F"'Make this "public static v" field final(ÖĞşÔÿÿÿÿÿJ$0fa03b11-4381-48c4-81ae-393f109d0913
+‡
+java:S1192{"FDefine a constant instead of duplicating this literal "Form1" 7 times.(½Ê±ªüÿÿÿÿJ$df59b55b-546e-43ef-943d-75e5ba442c8e
+Š	java:S116'"ORename this field "Menu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÕ’J$3f2ca05a-fa3b-4029-9c31-46db11231eb1
+	java:S116("SRename this field "MenuBack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÄõªJ$eb323f3a-0aa5-459c-ac56-4a5399e6ba9b
+‹	java:S116+"PRename this field "Img01" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±÷ÿõJ$f30a2535-5e23-48a8-9cfa-04b24ee54d4c
+k	java:S106K"+Replace this use of System.out by a logger.(†–²ÊúÿÿÿÿJ$1d429bfd-db54-4064-a5b8-ff77b21f1aed
+w
+java:S2696Y"6Make the enclosing method "static" or remove this set.(–İ…ÈùÿÿÿÿJ$73089beb-4862-4a61-b9eb-8dc3053ed36a
+r
+java:S2696Z"6Make the enclosing method "static" or remove this set.(âŒÊ™J$f86f4b67-8aa8-43c1-bb6e-4d7d9a175b12
+w
+java:S2696["6Make the enclosing method "static" or remove this set.(çìŒãøÿÿÿÿJ$9fbab8a6-afb9-4349-88cf-3242b0016a1c
+q
+java:S2696\"6Make the enclosing method "static" or remove this set.(Â™¦J$d7968830-073d-45d7-b350-d3e996df4c30
+h
+java:S1602a",Remove useless curly braces around statement(½Â‡‡J$4a8067d0-fd88-492a-8833-64b1a981eec1
+r
+java:S2696b"6Make the enclosing method "static" or remove this set.(İ–›ñJ$22f3038e-a5b3-46cf-8a2c-699d33f25f81
+h
+java:S1602e",Remove useless curly braces around statement(üÈ‰±J$b4e21dae-7699-47b8-8b25-39d808e7c2c8
+w
+java:S2696f"6Make the enclosing method "static" or remove this set.(Üÿ‡ÏøÿÿÿÿJ$852f830b-a68c-4ceb-bf24-5eb0030449ee
+m
+java:S1602i",Remove useless curly braces around statement(“Î»èùÿÿÿÿJ$aa06a6a2-0cd0-427f-86a9-b210c6593874
+w
+java:S2696j"6Make the enclosing method "static" or remove this set.(–¦¢ÜúÿÿÿÿJ$908c42ac-9776-47de-8e87-17177a10f010
+m
+java:S1602m",Remove useless curly braces around statement(ç¬Ì»şÿÿÿÿJ$59540934-3d83-4569-b754-bc672e10bc96
+r
+java:S2696n"6Make the enclosing method "static" or remove this set.(Ç¢†ÓJ$63a1a9a4-da02-4119-ada3-125d5387ca17
+t
+java:S1117x"9Rename "scene" which hides the field declared at line 65.(ë‡ÇdJ$b07f2322-9095-4be8-87df-96d3d42bb5a5
+z
+java:S1117y"9Rename "stage" which hides the field declared at line 64.(ƒÑÀ·ùÿÿÿÿJ$1b81fcb6-836c-48fc-ae42-e4e3e6c91f2e
+u
+java:S1117„"9Rename "scene" which hides the field declared at line 65.(ë‡ÇdJ$f51977d7-04ba-44c7-be7d-9a3131797740
+{
+java:S1117…"9Rename "stage" which hides the field declared at line 64.(ƒÑÀ·ùÿÿÿÿJ$059c8b8c-3523-413f-b1de-8f1ff9114aad
+u
+java:S1117"9Rename "scene" which hides the field declared at line 65.(ë‡ÇdJ$50af68ca-cf58-45b8-a293-5952c261640d
+{
+java:S1117‘"9Rename "stage" which hides the field declared at line 64.(ƒÑÀ·ùÿÿÿÿJ$418460fe-7569-4d9b-a044-8a634515f50c
+}	java:S125½"<This block of commented-out lines of code should be removed.(§õŞãşÿÿÿÿJ$20896646-0be3-429a-91be-59e19df0a500
+	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¬•„ûÿÿÿÿJ$90c746f7-85a3-4a34-a618-0f7bd80ecf35
+u
+java:S1117à"9Rename "scene" which hides the field declared at line 65.(ë‡ÇdJ$85118725-a850-4ee4-9051-e43616de38cb
+{
+java:S1117á"9Rename "stage" which hides the field declared at line 64.(ƒÑÀ·ùÿÿÿÿJ$972ceee5-2410-4702-b25c-4526921c2968
+u
+java:S1117ì"9Rename "scene" which hides the field declared at line 65.(ë‡ÇdJ$96878f14-d4d2-4116-be43-be9993f279c2
+{
+java:S1117í"9Rename "stage" which hides the field declared at line 64.(ƒÑÀ·ùÿÿÿÿJ$ea0c903e-9913-4f4d-a831-2deed9d41dfa
+u
+java:S1117ø"9Rename "scene" which hides the field declared at line 65.(ë‡ÇdJ$d82d418b-7fa0-4cfd-82e2-1a5fd61b455e
+{
+java:S1117ù"9Rename "stage" which hides the field declared at line 64.(ƒÑÀ·ùÿÿÿÿJ$a1374cc9-5d88-47e0-9b23-24ef57a6ff49
+u
+java:S1117„"9Rename "scene" which hides the field declared at line 65.(ë‡ÇdJ$25d92e03-07da-4d67-afe5-3af501418048
+{
+java:S1117…"9Rename "stage" which hides the field declared at line 64.(ƒÑÀ·ùÿÿÿÿJ$654f5a0d-3155-4e2f-8a66-a03a380c469e
+‚
+java:S1128"ARemove this unused import 'javafx.animation.TranslateTransition'.(¬°™ªøÿÿÿÿJ$43726a40-90a8-49de-b638-95f766aa1126
+i
+java:S1068B"(Remove this unused "root" private field.(Ğ´”ğûÿÿÿÿJ$ef40d62a-6894-4e70-8f2a-0b2d3ddd3fb6

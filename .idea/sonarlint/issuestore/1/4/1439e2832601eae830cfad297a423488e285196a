@@ -1,0 +1,13 @@
+
+‘
+java:S1104"PMake img1 a static final constant or non-public and provide accessors if needed.(â×ä€øÿÿÿÿJ$33371cd3-46dd-4230-8efa-a50a0b9af37b
+‘
+java:S1104"PMake img2 a static final constant or non-public and provide accessors if needed.(é‚ŞšÿÿÿÿÿJ$21fae673-e087-499d-8cad-8d2087b61e1d
+‘
+java:S1104"PMake img4 a static final constant or non-public and provide accessors if needed.(§ÔÍ—üÿÿÿÿJ$ccc1543c-c1f3-427a-b18d-d4c430c0152e
+
+java:S1104"SMake imgDash a static final constant or non-public and provide accessors if needed.(œ—¯·J$7164f549-2411-4500-88b8-38340e93bbb4
+‡
+java:S1192)"FDefine a constant instead of duplicating this literal "Form1" 4 times.(½Ê±ªüÿÿÿÿJ$fd2e6057-20ec-400b-8d39-430d23a68a30
+Â
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ôß€¯ùÿÿÿÿJ$2e5576de-4117-46df-9a65-e6698506cc44

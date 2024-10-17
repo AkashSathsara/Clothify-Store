@@ -1,0 +1,126 @@
+
+˜	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÁå÷şÿÿÿÿ8¢½ÎØ©2J$005cac95-8d78-4f97-9447-ba984b71e3fe
+™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ßé¯ûÿÿÿÿ8¢½ÎØ©2J$0efd989c-880a-401c-b435-dd2b11a88f11
+”	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßóŠé8¢½ÎØ©2J$98890d6a-c0a5-4a91-975f-1b6f2bf7b083
+q
+java:S5411¦"(Use a primitive boolean expression here.(šÉ™ùÿÿÿÿ8¢½ÎØ©2J$fdcc14e2-87c1-4f17-bbdb-a2c9154196e8
+
+java:S1104?"UMake cmbUserID a static final constant or non-public and provide accessors if needed.(üõÄ¬ÿÿÿÿÿ8¢½ÎØ©2J$7ce0c2bc-1c93-4542-ab7a-a3323a927134
+
+java:S1104@"UMake cmbItemID a static final constant or non-public and provide accessors if needed.(êã±¼ıÿÿÿÿ8¢½ÎØ©2J$e3b7f4d2-f691-49da-ab5c-8901ae59cd9a
+›
+java:S1104A"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ8¢½ÎØ©2J$e2287b34-09ab-4260-9c07-5c0eb56276ab
+–
+java:S1104B"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•8¢½ÎØ©2J$81f5a2b2-23a1-43a5-9367-527276956b86
+›
+java:S1104C"SMake lblName a static final constant or non-public and provide accessors if needed.(½Ï®·ıÿÿÿÿ8¢½ÎØ©2J$5d4fdf92-528e-4267-886a-277110e54987
+™
+java:S1104D"WMake lblItemName a static final constant or non-public and provide accessors if needed.(¡šµ&8¢½ÎØ©2J$00e4532f-eb3f-4660-b007-99800118672e
+š
+java:S1104E"WMake lblItemSize a static final constant or non-public and provide accessors if needed.(àª•¬8¢½ÎØ©2J$885de419-5393-473d-a12d-ceb3a88c4f83
+š
+java:S1104F"XMake lblUnitPrice a static final constant or non-public and provide accessors if needed.(°„«8¢½ÎØ©2J$b4ec45dd-a791-49f6-8824-4edc1c66066b
+š
+java:S1104G"RMake lblQty a static final constant or non-public and provide accessors if needed.(²´ºëúÿÿÿÿ8¢½ÎØ©2J$132a6455-8ade-4350-a7a2-982794783568
+–
+java:S1104H"SMake tblCart a static final constant or non-public and provide accessors if needed.(Şâê8¢½ÎØ©2J$58110df8-d59e-4b45-9f4a-43c836cad8ba
+š
+java:S1104I"RMake colQty a static final constant or non-public and provide accessors if needed.(‰å¾…úÿÿÿÿ8¢½ÎØ©2J$c9c613fa-4f06-4d4c-99c6-e08ebaf14807
+›
+java:S1104J"XMake colUnitPrice a static final constant or non-public and provide accessors if needed.(Õ…¼í8¢½ÎØ©2J$3da7e56d-0d44-4158-a1b8-b02d5f52bbe0
+—
+java:S1104K"TMake colTotal a static final constant or non-public and provide accessors if needed.(¨­Ì˜8¢½ÎØ©2J$b9636244-f4ed-4101-bb07-7ea625e1c39b
+•
+java:S1104L"RMake btnAdd a static final constant or non-public and provide accessors if needed.(‰ÂÈ8¢½ÎØ©2J$56a3ccab-dd25-4644-9341-be110a5c6808
+œ
+java:S1104M"TMake btnClear a static final constant or non-public and provide accessors if needed.(¸¹„üÿÿÿÿ8¢½ÎØ©2J$8c9dc311-77e7-47d2-8435-f83ff4f694a1
+š
+java:S1104N"RMake txtQty a static final constant or non-public and provide accessors if needed.(„¬‘³øÿÿÿÿ8¢½ÎØ©2J$4d2ff161-5ca5-4279-b623-8b8a5f4a280f
+œ
+java:S1104O"YMake btnPlaceOrder a static final constant or non-public and provide accessors if needed.(¢ü¿8¢½ÎØ©2J$c92bf18d-4c17-42fb-aa64-55b5ee97a5cf
+—
+java:S1104P"TMake lblTotal a static final constant or non-public and provide accessors if needed.(ÿêìˆ8¢½ÎØ©2J$4e6dd5e1-e00e-4944-a75a-5db19427a2b7
+Ÿ
+java:S1104Q"WMake colItemName a static final constant or non-public and provide accessors if needed.(£ºÏòûÿÿÿÿ8¢½ÎØ©2J$1ab25b49-d5d4-464c-940f-b92f12aa0803
+Ÿ
+java:S1104R"WMake colItemCode a static final constant or non-public and provide accessors if needed.(Òª„ûÿÿÿÿ8¢½ÎØ©2J$edc9be5a-536a-4871-9f48-a89695824ab3
+š
+java:S1104S"WMake txtPayment1 a static final constant or non-public and provide accessors if needed.(†÷ùì8¢½ÎØ©2J$3feebbab-bffa-4d96-899a-5d74aff2afa6
+™
+java:S1104T"VMake txtOrderId a static final constant or non-public and provide accessors if needed.(‰Î‘§8¢½ÎØ©2J$0b935d3d-0c6b-4bee-895d-5faaa289b2ea
+›
+java:S1104U"SMake detaiId a static final constant or non-public and provide accessors if needed.(ÅÔß¬ÿÿÿÿÿ8¢½ÎØ©2J$fbf1ba4d-1b16-43d4-aff3-4cc49ebbc1e5
+—
+java:S1104V"TMake imgPlace a static final constant or non-public and provide accessors if needed.(ÌÜ‘ã8¢½ÎØ©2J$a7927f50-5f10-4bb1-80a1-d40797c2b603
+œ
+java:S1104W"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8¢½ÎØ©2J$d1b0766a-c763-4783-95cd-1079d640ebc9
+	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­½ÎØ©2J$e57c9b51-5418-4ebd-bee5-58252884863c
+	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­½ÎØ©2J$1a6e73ec-7204-4279-b1fa-d71e98abdb33
+	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­½ÎØ©2J$24f5f3f5-7bc9-4f1b-9572-14494ca8fac1
+	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­½ÎØ©2J$95b09b16-04ee-460a-9a43-c9f8880008ea
+w
+java:S3740?"/Provide the parametrized type for this generic.(üõÄ¬ÿÿÿÿÿ8­½ÎØ©2J$bbb9543b-0de0-4cfc-b268-e2488ff394e1
+w
+java:S3740@"/Provide the parametrized type for this generic.(êã±¼ıÿÿÿÿ8­½ÎØ©2J$735d60b9-016c-4650-9e99-e48fc8de313c
+r
+java:S3740H"/Provide the parametrized type for this generic.(Şâê8­½ÎØ©2J$1330b4fc-9b52-4b4e-ada7-ad8377bbb20c
+w
+java:S3740I"/Provide the parametrized type for this generic.(‰å¾…úÿÿÿÿ8­½ÎØ©2J$45f7f3dc-bb69-4540-bfc0-5cd9cb2557fe
+r
+java:S3740J"/Provide the parametrized type for this generic.(Õ…¼í8­½ÎØ©2J$591c653c-baec-45bf-bd1e-88c602638f45
+r
+java:S3740K"/Provide the parametrized type for this generic.(¨­Ì˜8­½ÎØ©2J$83a37124-94b2-45a1-8b04-98dfd8420341
+w
+java:S3740Q"/Provide the parametrized type for this generic.(£ºÏòûÿÿÿÿ8­½ÎØ©2J$d291d8cb-3dab-4d25-98a4-761e125e5bd4
+w
+java:S3740R"/Provide the parametrized type for this generic.(Òª„ûÿÿÿÿ8­½ÎØ©2J$c776d4b5-30a3-4383-884f-a9a8ab151d8d
+w
+java:S3740r"/Provide the parametrized type for this generic.(¶ŠÄ«úÿÿÿÿ8­½ÎØ©2J$399c8d4b-50fd-48b7-9ced-d3c5cec6cc00
+w
+java:S3740~"/Provide the parametrized type for this generic.(½Ÿöûÿÿÿÿ8­½ÎØ©2J$795048ab-3e4d-4ba7-9be2-926b5e631137
+Š
+java:S2095¨"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÈèÜV8¶½ÎØ©2J$729c523e-52f4-4df2-9ae0-19ff2c0c8bde
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8µ½ÎØ©2J$73efeec5-230d-4c45-bdd1-4d89fd8a19fc
+‹
+java:S2095Ì"GUse try-with-resources or close this "Statement" in a "finally" clause.(®Ò†¶8¶½ÎØ©2J$0eb69d82-08b9-4601-9604-afc39f7be9da
+
+java:S2095Á"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8µ½ÎØ©2J$584ee390-3f00-407e-b324-243d956126e0
+Å
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÜÎ£8·½ÎØ©2J$68df8b0b-6319-459c-8d85-feed86e5da86
+t
+java:S1602t",Remove useless curly braces around statement(«‰±øÿÿÿÿ8À½ÎØ©2J$12fbc56a-f61d-4da1-a592-cc538dcec868
+r	java:S106w"+Replace this use of System.out by a logger.(ç¥ì´øÿÿÿÿ8À½ÎØ©2J$de62c898-c194-426e-a3b9-07c8bb9c6083
+p
+java:S1602€",Remove useless curly braces around statement(áª á8Å½ÎØ©2J$1c593234-bbe3-460e-8ce9-878af3c28593
+n	java:S106ƒ"+Replace this use of System.out by a logger.(Óú„•8Å½ÎØ©2J$d0fad986-bb35-49f9-a4d3-9be3f31f9119
+s	java:S106Š"+Replace this use of System.out by a logger.(†–²Êúÿÿÿÿ8Å½ÎØ©2J$916db87f-e812-4c53-bb4b-21491f398c23
+{
+java:S1172å"2Remove this unused method parameter "actionEvent".(»…ä«ùÿÿÿÿ8Ô½ÎØ©2J$08842280-95a8-45a6-ac1e-8feec9ff2273
+s	java:S106í"+Replace this use of System.out by a logger.(÷Ÿ‚‹ıÿÿÿÿ8Ö½ÎØ©2J$992ca98c-dfe7-4d53-b892-3563570167ac
+{
+java:S1172…"2Remove this unused method parameter "actionEvent".(—²Üğøÿÿÿÿ8Ö½ÎØ©2J$15fc74c7-6d72-41b6-af8b-48d796290581
+
+java:S1117";Rename "tblCart" which hides the field declared at line 72.(Óò¬Ï8Ö½ÎØ©2J$53c60487-d37e-4cbb-a937-edd6e390679c
+
+java:S1117™";Rename "tblCart" which hides the field declared at line 72.(Óò¬Ï8Ü½ÎØ©2J$5b51db30-1b0c-460c-8e3f-50b06e8224b4
+p
+java:S1481™",Remove this unused "tblCart" local variable.(Óò¬Ï8Ü½ÎØ©2J$f055ed53-431f-4c7d-8023-5c8954b8608f
+q
+java:S2114­"(Remove or correct this "removeAll" call.(üÃÈıÿÿÿÿÿ8Ş½ÎØ©2J$1ce737fb-1ba0-440b-92b9-58ad63f1f874
+	java:S125¬"<This block of commented-out lines of code should be removed.(ü‰İ¨8Ş½ÎØ©2J$03de5dfd-142f-40a5-b14e-a50becd6a6fd
+n	java:S106Ç"+Replace this use of System.out by a logger.(š´è8â½ÎØ©2J$3f8c4861-ee84-4174-8cbd-4644a6c75b10
+n	java:S106Ì"+Replace this use of System.out by a logger.(š´è8â½ÎØ©2J$290d55f1-8f89-463a-b915-447e529d8342
+u
+java:S1172Ò",Remove this unused method parameter "event".(†Æ‚ùÿÿÿÿ8ä½ÎØ©2J$19f93f34-1925-4b6a-9d31-8ba6ba6017b7
+	java:S125Ó"<This block of commented-out lines of code should be removed.(ñåàé8ä½ÎØ©2J$09ea51a0-8a71-47f9-9ae7-7c625f2c0c9e
+
+java:S1117Õ";Rename "tblCart" which hides the field declared at line 72.(Óò¬Ï8ä½ÎØ©2J$eca7fe94-20eb-4ccb-ac72-d609ba243ffc
+
+java:S6437ø"6Revoke and change this password, as it is compromised.(î¾Øäûÿÿÿÿ8ò½ÎØ©2J$3095f42a-f8e2-48bd-8240-96ebfe2b04d2
+Š
+java:S1075†"ARefactor your code to get this URI from a customizable parameter.(ŒÉù®ıÿÿÿÿ8õ½ÎØ©2J$773fddbc-9b4b-4d66-b6bc-2e50a9192e24
+u
+java:S1172§",Remove this unused method parameter "event".(è¯Ñ…ÿÿÿÿÿ8õ½ÎØ©2J$a4a55f90-623b-440e-b8ad-414a680dab55
+’
+java:S1128"ORemove this unused import 'edu.icet.demo.controller.login.LoginFormController'.(é¶ÛÍ8œ£Ú©2J$fdc5ac6c-5023-4b4f-831f-ed8bc00235ea

@@ -1,0 +1,16 @@
+
+j
+java:S1121".Extract the assignment out of this expression.(©µÀJ$a6d5d1e7-84da-4f9f-88aa-fdfd657b7967
+†	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$4bd8a623-33ef-4535-bd3f-cbfa23ccc3d6
+‚
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÉşªGJ$00e39ff5-bd55-40c5-bdc5-5a6763a54a18
+Õ
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ì½ÍÒJ$c9cd25ad-3a7d-477d-a99e-0221afb4e7c7
+Z
+java:S6905"Don't use the query "SELECT *".(ÉşªGJ$3f3f0c64-1de4-44aa-a5fa-1c5233d3e312
+{
+java:S1128":Remove this unused import 'edu.icet.demo.dto.OrderDetail'.(‰¨ÉıÿÿÿÿJ$cd3106d4-00e4-47da-b925-dd5aab459d59
+x
+java:S1128	"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿJ$c60f944f-52c3-47a8-a78e-8fe685bf385f
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$22941f33-0b3a-4833-84c7-9930b3396216

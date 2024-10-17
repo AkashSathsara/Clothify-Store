@@ -1,0 +1,22 @@
+
+Ÿ
+java:S1104"WMake txtUserName a static final constant or non-public and provide accessors if needed.(÷‹Ú’üÿÿÿÿ8²¯¶Ö©2J$c59f82cf-7c7d-4bae-918f-23a22c2f68ff
+Ÿ
+java:S1104"WMake txtPassword a static final constant or non-public and provide accessors if needed.(¬ä©Óÿÿÿÿÿ8²¯¶Ö©2J$71f4c3bd-b3b3-4537-a3e8-95aa7572f21e
+™
+java:S1104"VMake lblInvalid a static final constant or non-public and provide accessors if needed.(™—»é8²¯¶Ö©2J$c0c7d68e-f9d3-4b6b-98ee-e3f00cf39e83
+—
+java:S1104"UMake ImgView01 a static final constant or non-public and provide accessors if needed.(ÊÓ -8²¯¶Ö©2J$0cd0af16-b9b2-40a4-a33f-2122cf7ce12c
+˜
+java:S1104"UMake ImgView02 a static final constant or non-public and provide accessors if needed.(“½Š°8²¯¶Ö©2J$c6f2f711-f042-443e-8c20-590c4c2b5eef
+œ
+java:S1104"TMake userName a static final constant or non-public and provide accessors if needed.(«¥ãóüÿÿÿÿ8²¯¶Ö©2J$a746f3d6-a9aa-4163-9edb-c5144632f930
+œ
+java:S1104"TMake password a static final constant or non-public and provide accessors if needed.(ÿÓ¨Éÿÿÿÿÿ8²¯¶Ö©2J$99fc9947-2a1b-41c3-b7c0-36c2df1cef11
+	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ıåÕ©2J$4e6cfeec-870d-451c-856d-6dd730d32090
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷íêÚ©2J$2bac3aaa-78e3-48b5-b873-1ce48c8b045f
+•	java:S116"TRename this field "ImgView01" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÓ -8Á¯¶Ö©2J$0bf4de3d-396f-46fa-b9e2-d07db1274715
+–	java:S116"TRename this field "ImgView02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“½Š°8Á¯¶Ö©2J$b254f820-ae03-42c9-b352-c66e13f006fa
+ƒ	java:S125 "<This block of commented-out lines of code should be removed.(şßƒ·øÿÿÿÿ8îÙÚ©2J$feb70263-65fb-4ff2-82e9-103f98cd2f15
+¨
+java:S2178:"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(è‰˜d8şíêÚ©2J$725a3b08-ed87-40a1-aac3-f1b8818f2227

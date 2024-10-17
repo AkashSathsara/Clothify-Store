@@ -1,0 +1,15 @@
+
+i
+java:S1121".Extract the assignment out of this expression.(™½ÞrJ$9b9c5ad9-5c60-4bab-8829-f628c8e50139
+†	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$316d2c0b-9b10-47d0-a20c-6e0590e30f1a
+†	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$5d398bb6-cb50-42a3-8a93-ec1cd8cbeecb
+ˆ
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÆÒ©¨úÿÿÿÿJ$c2148111-38c0-4f16-b199-12f7b15a48d7
+ˆ
+java:S2095/"GUse try-with-resources or close this "Statement" in a "finally" clause.(°˜·ÈþÿÿÿÿJ$3077e414-c639-45d9-8187-faa13da2d107
+Õ
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™ ¨ŒJ$ba42e8ef-b1f5-4c13-93fd-b51ee8287546
+`
+java:S6905"Don't use the query "SELECT *".(ÆÒ©¨úÿÿÿÿJ$dc79e68e-f413-40e7-b1b2-e7b70cf07585
+`
+java:S6905/"Don't use the query "SELECT *".(°˜·ÈþÿÿÿÿJ$02206fde-87eb-4113-ad75-da34ed2728f9
