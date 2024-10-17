@@ -59,7 +59,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-public class PlaceOrderFormController implements Initializable {
+public class AdminPlaceOrderFormController implements Initializable {
     public ComboBox cmbUserID;
     public ComboBox cmbItemID;
     public Label lblDate;
@@ -348,15 +348,15 @@ public class PlaceOrderFormController implements Initializable {
     }
 
     public void btnBackOnAction(ActionEvent event) throws IOException {
-        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard1-form.fxml"));
-        Scene scene = new Scene(rootNode);
-        Stage stage = new Stage();
-        stage.setScene(scene);
-        stage.setTitle("DashBoard Form");
-        stage.show();
-        Node n = (Node) event.getSource();
-        Stage stage2 = (Stage) n.getScene().getWindow();
-        stage2.close();
+            Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard2-form.fxml"));
+            Scene scene = new Scene(rootNode);
+            Stage stage = new Stage();
+            stage.setScene(scene);
+            stage.setTitle("DashBoard Form");
+            stage.show();
+            Node n = (Node) event.getSource();
+            Stage stage2 = (Stage) n.getScene().getWindow();
+            stage2.close();
     }
 
     private void sendEmail(String recipientEmail) throws MessagingException {
@@ -425,3 +425,4 @@ public class PlaceOrderFormController implements Initializable {
         sendEmail(recipientEmail);
     }
 }
+

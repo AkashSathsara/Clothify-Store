@@ -11,10 +11,12 @@ import java.sql.SQLException;
 
 public class OrderController {
     private static OrderController instance;
-    private OrderController(){}
 
-    public static OrderController getInstance(){
-        if(instance==null){
+    private OrderController() {
+    }
+
+    public static OrderController getInstance() {
+        if (instance == null) {
             return instance = new OrderController();
         }
         return instance;
@@ -24,7 +26,7 @@ public class OrderController {
         ObservableList<Order> itemList = FXCollections.observableArrayList();
         try {
             ResultSet resultSet = DBConnection.getInstance().getConnection().createStatement().executeQuery("SELECT * FROM orderentity");
-            while(resultSet.next()){
+            while (resultSet.next()) {
                 Order order = new Order(
                         resultSet.getString(1),
                         resultSet.getDate(2),
@@ -43,7 +45,7 @@ public class OrderController {
         ObservableList<OrderDetail> itemList = FXCollections.observableArrayList();
         try {
             ResultSet resultSet = DBConnection.getInstance().getConnection().createStatement().executeQuery("SELECT * FROM orderdetailentity");
-            while(resultSet.next()){
+            while (resultSet.next()) {
                 OrderDetail order = new OrderDetail(
                         resultSet.getString(1),
                         resultSet.getString(2),

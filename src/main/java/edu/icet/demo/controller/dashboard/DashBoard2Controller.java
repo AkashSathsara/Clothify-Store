@@ -116,7 +116,7 @@ public class DashBoard2Controller implements Initializable {
     }
 
     public void placeOrderOnAction(ActionEvent event) throws IOException {
-        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/place-order-form.fxml"));
+        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/admin-place-order-form.fxml"));
         Scene scene = new Scene(rootNode);
         Stage stage = new Stage();
         stage.setScene(scene);
@@ -128,7 +128,7 @@ public class DashBoard2Controller implements Initializable {
     }
 
     public void itemsOnAction(ActionEvent event) throws IOException {
-        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/add-item-form.fxml"));
+        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/admin-item-form.fxml"));
         Scene scene = new Scene(rootNode);
         Stage stage = new Stage();
         stage.setScene(scene);
@@ -232,7 +232,7 @@ public class DashBoard2Controller implements Initializable {
     }
 
     public void viewOrdersOnAction(ActionEvent event) throws IOException {
-        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/vieworder-form.fxml"));
+        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/admin-vieworder-form.fxml"));
         Scene scene = new Scene(rootNode);
         Stage stage = new Stage();
         stage.setScene(scene);

@@ -196,8 +196,8 @@ public class AddUserFormController implements Initializable {
     }
 
     public void btnBackOnAction(ActionEvent event) throws IOException {
-        LoginFormController obj = new LoginFormController();
-        if(((obj.userName).equalsIgnoreCase("user")) && ((obj.password).equalsIgnoreCase("1111"))){
+//        LoginFormController obj = new LoginFormController();//LoginFormController.getInstance();
+//        if(((obj.userName).equalsIgnoreCase("user")) && ((obj.password).equalsIgnoreCase("1111"))){
             Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard2-form.fxml"));
             Scene scene = new Scene(rootNode);
             Stage stage = new Stage();
@@ -207,16 +207,5 @@ public class AddUserFormController implements Initializable {
             Node n =(Node) event.getSource();
             Stage stage2 =(Stage) n.getScene().getWindow();
             stage2.close();
-        }else{
-            Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard1-form.fxml"));
-            Scene scene = new Scene(rootNode);
-            Stage stage = new Stage();
-            stage.setScene(scene);
-            stage.setTitle("DashBoard Form");
-            stage.show();
-            Node n =(Node) event.getSource();
-            Stage stage2 =(Stage) n.getScene().getWindow();
-            stage2.close();
-        }
     }
 }

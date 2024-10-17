@@ -8,7 +8,6 @@ import edu.icet.demo.bo.custom.ItemBo;
 import edu.icet.demo.controller.login.LoginFormController;
 import edu.icet.demo.db.DBConnection;
 import edu.icet.demo.dto.Item;
-import edu.icet.demo.dto.User;
 import edu.icet.demo.dto.tm.Table02TM;
 import edu.icet.demo.entity.ItemEntity;
 import javafx.collections.FXCollections;
@@ -37,7 +36,7 @@ import java.util.ResourceBundle;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class AddItemFormController implements Initializable {
+public class AdminItemFormController implements Initializable {
     public JFXTextField txtItemID;
     public JFXTextField txtItemName;
     public JFXTextField txtPrice;
@@ -81,7 +80,7 @@ public class AddItemFormController implements Initializable {
                 Integer.parseInt(txtQtyOnHand.getText()),
                 txtSize.getText()
 
-                );
+        );
         boolean b = itemBo.save(item);
         System.out.println(b);
         loadTable02();
@@ -216,7 +215,7 @@ public class AddItemFormController implements Initializable {
     }
 
     public void btnBackOnAction(ActionEvent event) throws IOException {
-            Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard1-form.fxml"));
+            Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard2-form.fxml"));
             Scene scene = new Scene(rootNode);
             Stage stage = new Stage();
             stage.setScene(scene);

@@ -25,7 +25,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-public class ViewOrderFormController implements Initializable {
+public class AdminViewOrderFormController implements Initializable {
 
     public TableColumn colOrderId;
     public TableView tblOrders;
@@ -74,7 +74,7 @@ public class ViewOrderFormController implements Initializable {
     public void btnSearchOnAction(ActionEvent event) {
         ObservableList<OrderDetail> allItems = OrderController.getInstance().getAllOrderDetails();
         allItems.forEach(orderDetail -> {
-            if ((txtOrderId.getText()).equals(orderDetail.getItemCode())) {
+            if((txtOrderId.getText()).equals(orderDetail.getItemCode())){
                 TblCart2 cartTbl = new TblCart2(
                         orderDetail.getOrderId(),
                         orderDetail.getPayment(),
@@ -91,14 +91,14 @@ public class ViewOrderFormController implements Initializable {
     }
 
     public void btnBackOnAction(ActionEvent event) throws IOException {
-        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard1-form.fxml"));
-        Scene scene = new Scene(rootNode);
-        Stage stage = new Stage();
-        stage.setScene(scene);
-        stage.setTitle("DashBoard Form");
-        stage.show();
-        Node n = (Node) event.getSource();
-        Stage stage2 = (Stage) n.getScene().getWindow();
-        stage2.close();
+            Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/dashboard2-form.fxml"));
+            Scene scene = new Scene(rootNode);
+            Stage stage = new Stage();
+            stage.setScene(scene);
+            stage.setTitle("DashBoard Form");
+            stage.show();
+            Node n =(Node) event.getSource();
+            Stage stage2 =(Stage) n.getScene().getWindow();
+            stage2.close();
     }
 }

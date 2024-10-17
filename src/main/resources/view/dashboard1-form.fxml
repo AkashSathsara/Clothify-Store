@@ -41,17 +41,16 @@
       </AnchorPane>
       <AnchorPane layoutX="298.0" layoutY="263.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
          <children>
-            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#settingsOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Settings" textFill="WHITE">
+            <JFXButton alignment="BASELINE_LEFT" layoutX="196.0" layoutY="54.0" onAction="#settingsOnAction" prefHeight="32.0" prefWidth="80.0" style="-fx-background-color: #487eb0;" text="Settings" textAlignment="CENTER" textFill="WHITE">
                <font>
-                  <Font size="22.0" />
+                  <Font size="15.0" />
                </font>
-               <graphic>
-                  <ImageView fx:id="img6" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
-               </graphic>
             </JFXButton>
          </children>
       </AnchorPane>
-      <AnchorPane layoutX="298.0" layoutY="47.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
+      <AnchorPane layoutX="298.0" layoutY="47.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;" />
+      <AnchorPane layoutX="298.0" layoutY="155.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;" />
+      <AnchorPane layoutY="263.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
          <children>
             <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#viewOrderOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="View Orders" textFill="WHITE">
                <font>
@@ -59,30 +58,6 @@
                </font>
                <graphic>
                   <ImageView fx:id="img4" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
-               </graphic>
-            </JFXButton>
-         </children>
-      </AnchorPane>
-      <AnchorPane layoutX="298.0" layoutY="155.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
-         <children>
-            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#addSupplierOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Add Sippliers" textFill="WHITE">
-               <font>
-                  <Font size="22.0" />
-               </font>
-               <graphic>
-                  <ImageView fx:id="img5" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
-               </graphic>
-            </JFXButton>
-         </children>
-      </AnchorPane>
-      <AnchorPane layoutY="263.0" prefHeight="108.0" prefWidth="298.0" style="-fx-background-color: #30336b;">
-         <children>
-            <JFXButton alignment="BASELINE_LEFT" layoutX="24.0" layoutY="11.0" onAction="#reportsOnAction" prefHeight="85.0" prefWidth="249.0" style="-fx-background-color: #487eb0;" text="Reports" textFill="#fffafa">
-               <font>
-                  <Font size="22.0" />
-               </font>
-               <graphic>
-                  <ImageView fx:id="img3" fitHeight="47.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true" />
                </graphic>
             </JFXButton>
          </children>

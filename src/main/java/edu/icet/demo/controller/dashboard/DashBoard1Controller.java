@@ -17,10 +17,7 @@ import java.util.ResourceBundle;
 public class DashBoard1Controller implements Initializable {
     public ImageView img1;
     public ImageView img2;
-    public ImageView img6;
     public ImageView img4;
-    public ImageView img5;
-    public ImageView img3;
     public ImageView imgDash;
 
 
@@ -30,14 +27,8 @@ public class DashBoard1Controller implements Initializable {
         img1.setImage(image1);
         Image image2 = new Image("C:\\Users\\HP\\IdeaProjects\\Clothy-Store\\src\\main\\java\\edu\\icet\\demo\\img\\img16.jpg");
         img2.setImage(image2);
-        Image image3 = new Image("C:\\Users\\HP\\IdeaProjects\\Clothy-Store\\src\\main\\java\\edu\\icet\\demo\\img\\img13.png");
-        img3.setImage(image3);
         Image image4 = new Image("C:\\Users\\HP\\IdeaProjects\\Clothy-Store\\src\\main\\java\\edu\\icet\\demo\\img\\img11.png");
         img4.setImage(image4);
-        Image image5 = new Image("C:\\Users\\HP\\IdeaProjects\\Clothy-Store\\src\\main\\java\\edu\\icet\\demo\\img\\img08.jpg");
-        img5.setImage(image5);
-        Image image6 = new Image("C:\\Users\\HP\\IdeaProjects\\Clothy-Store\\src\\main\\java\\edu\\icet\\demo\\img\\img12.jpg");
-        img6.setImage(image6);
         Image image7 = new Image("C:\\Users\\HP\\IdeaProjects\\Clothy-Store\\src\\main\\java\\edu\\icet\\demo\\img\\img06.jpg");
         imgDash.setImage(image7);
     }
@@ -49,8 +40,8 @@ public class DashBoard1Controller implements Initializable {
         stage.setScene(scene);
         stage.setTitle("Form1");
         stage.show();
-        Node n =(Node) event.getSource();
-        Stage stage2 =(Stage) n.getScene().getWindow();
+        Node n = (Node) event.getSource();
+        Stage stage2 = (Stage) n.getScene().getWindow();
         stage2.close();
     }
 
@@ -61,8 +52,8 @@ public class DashBoard1Controller implements Initializable {
         stage.setScene(scene);
         stage.setTitle("Form1");
         stage.show();
-        Node n =(Node) event.getSource();
-        Stage stage2 =(Stage) n.getScene().getWindow();
+        Node n = (Node) event.getSource();
+        Stage stage2 = (Stage) n.getScene().getWindow();
         stage2.close();
     }
 
@@ -76,32 +67,8 @@ public class DashBoard1Controller implements Initializable {
         stage.setScene(scene);
         stage.setTitle("Form1");
         stage.show();
-        Node n =(Node) event.getSource();
-        Stage stage2 =(Stage) n.getScene().getWindow();
-        stage2.close();
-    }
-
-    public void addSupplierOnAction(ActionEvent event) throws IOException {
-        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/add-supplier-form.fxml"));
-        Scene scene = new Scene(rootNode);
-        Stage stage = new Stage();
-        stage.setScene(scene);
-        stage.setTitle("Form1");
-        stage.show();
-        Node n =(Node) event.getSource();
-        Stage stage2 =(Stage) n.getScene().getWindow();
-        stage2.close();
-    }
-
-    public void reportsOnAction(ActionEvent event) throws IOException {
-        Parent rootNode = FXMLLoader.load(this.getClass().getResource("/view/reports-form.fxml"));
-        Scene scene = new Scene(rootNode);
-        Stage stage = new Stage();
-        stage.setScene(scene);
-        stage.setTitle("Form1");
-        stage.show();
-        Node n =(Node) event.getSource();
-        Stage stage2 =(Stage) n.getScene().getWindow();
+        Node n = (Node) event.getSource();
+        Stage stage2 = (Stage) n.getScene().getWindow();
         stage2.close();
     }
 
@@ -112,8 +79,8 @@ public class DashBoard1Controller implements Initializable {
         stage.setScene(scene);
         stage.setTitle("Form1");
         stage.show();
-        Node n =(Node) event.getSource();
-        Stage stage2 =(Stage) n.getScene().getWindow();
+        Node n = (Node) event.getSource();
+        Stage stage2 = (Stage) n.getScene().getWindow();
         stage2.close();
     }
 
